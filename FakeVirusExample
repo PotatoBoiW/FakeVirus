@@ -1,0 +1,7 @@
+X=MsgBox("Error while opening Computer.vbs",0+48,"Error")
+
+X=MsgBox("Your device has been infected with Covid-19. Would you like to quarantine?",3+16,"Infected")
+
+X=MsgBox("Quarantining failed!",2+64,"Failure")
+
+X=MsgBox("Corona has officially infected your device!",0+16,"We've lost")
